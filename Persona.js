@@ -28,9 +28,9 @@ angular.module("angular", [])
                 
                 
 				Id: 0,
-				Name: "Juan Lopez",
-				Photo: "man.png",
-				Quote: "Las gallinas que entrar por la que salen",
+				Name: "Claudio Martinez",
+				Photo: "gallina.png",
+				Quote: "Las gallinas que entran por la que salen",
 				Age: 32,
 				Occupation: "Comercial en empresa de automocion",
 				Family: "Con pareja desde hace 1 año",
