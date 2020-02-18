@@ -29,8 +29,8 @@ angular.module("angular", [])
                 
 				Id: 0,
 				Name: "Claudio Martinez",
-				Photo: "gallina.png",
-				Quote: "Las gallinas que entran por la que salen",
+				Photo: "man.png",
+				Quote: "Carpe diem",
 				Age: 32,
 				Occupation: "Comercial en empresa de automocion",
 				Family: "Con pareja desde hace 1 año",
